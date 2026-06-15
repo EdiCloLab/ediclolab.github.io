@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://clara.github.io/sitemap.xml
+Sitemap: https://ediclolab.github.io/clara.github.io/sitemap.xml
